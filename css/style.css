@@ -87,7 +87,7 @@ body {
 .block-1 {
     width: 800px;
     margin: 30px auto;
-    height: 250px;
+    max-height: 250px;
     overflow: scroll;
 }
 .text p{
@@ -128,7 +128,7 @@ p.par1 + p {
     font-size: 20px;
     color: blue;
     width: 179px;
-    height: 100px;
+    max-height: 100px;
     overflow: visible;
 }
 p.par3 + p  ~ p {
@@ -172,7 +172,7 @@ p.par3 + p  ~ p {
     padding: 108px;
     text-decoration: line-through;
     width: 75%;
-    height: 35px;
+    max-height: 35px;
     overflow: scroll;
     margin: 0 0 15px 0;
 }
