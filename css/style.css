@@ -243,11 +243,13 @@ footer{
     color: #1E212C;
     margin: 0 0 92px 0;
 }
-.maket-image {
+.maket-image{
+    margin: 0 0 60px 0;
+}
+.maket-img {
     width: 810px;
     height: 360px;
     padding: 0;
-    margin: 0 0 60px 0;
 }
 .text-bold {
     font-weight: 700;
